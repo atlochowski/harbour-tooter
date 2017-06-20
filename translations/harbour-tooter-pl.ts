@@ -24,7 +24,7 @@
     </message>
     <message>
         <source>boosted</source>
-        <translation>propagowana</translation>
+        <translation>wyróżniony</translation>
     </message>
     <message>
         <source>said</source>
@@ -77,52 +77,52 @@
     <name>CoverPage</name>
     <message>
         <source>Tooter</source>
-        <translation type="unfinished"></translation>
+        <translation>Tooter</translation>
     </message>
 </context>
 <context>
     <name>MainPage</name>
     <message>
         <source>Home</source>
-        <translation>Home</translation>
+        <translation>Ekran główny</translation>
     </message>
     <message>
         <source>Timeline</source>
-        <translation>Timeline</translation>
+        <translation>Linia czasu</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation>Notifications</translation>
+        <translation>Powiadomienia</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Search</translation>
+        <translation>Wyszukaj</translation>
     </message>
     <message>
         <source>New Toot</source>
-        <translation>New</translation>
+        <translation>Nowy</translation>
     </message>
 </context>
 <context>
     <name>MiniStatus</name>
     <message>
         <source>boosted</source>
-        <translation>boosted</translation>
+        <translation>wyróżniona</translation>
     </message>
     <message>
         <source>favourited</source>
-        <translation>favourited</translation>
+        <translation>ulubiony</translation>
     </message>
     <message>
         <source>followed you</source>
-        <translation>followed you</translation>
+        <translation>śledzi cię</translation>
     </message>
 </context>
 <context>
     <name>MyList</name>
     <message>
         <source>Load more</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Załaduj więcej</translation>
     </message>
 </context>
 <context>
@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>Mute</source>
-        <translation>Mute</translation>
+        <translation>Wycisz</translation>
     </message>
     <message>
         <source>Unmute</source>
@@ -149,46 +149,46 @@
     </message>
     <message>
         <source>Unblock</source>
-        <translation>Unblock</translation>
+        <translation>Odblokujk</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation>Block</translation>
+        <translation>Zablokuj</translation>
     </message>
     <message>
         <source>Statuses</source>
-        <translation>Statuses</translation>
+        <translation>Statusy</translation>
     </message>
     <message>
         <source>Favourites</source>
-        <translation>Favourites</translation>
+        <translation>Ulubione</translation>
     </message>
     <message>
         <source>Follow</source>
-        <translation>Follow</translation>
+        <translation>Śledź</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation>Summary</translation>
+        <translation>Podsumowanie</translation>
     </message>
     <message>
         <source>Followers</source>
-        <translation>Followers</translation>
+        <translation>Śledzący</translation>
     </message>
 </context>
 <context>
     <name>Toot</name>
     <message>
         <source>boosted</source>
-        <translation>boosted</translation>
+        <translation>wyróźniona</translation>
     </message>
     <message>
         <source>favourited</source>
-        <translation>favourited</translation>
+        <translation>ulubiona</translation>
     </message>
     <message>
         <source>followed you</source>
-        <translation>followed you</translation>
+        <translation>śledzący cię</translation>
     </message>
 </context>
 </TS>
