@@ -16,61 +16,61 @@
     <name>API</name>
     <message>
         <source>favourited</source>
-        <translation type="unfinished">favourited</translation>
+        <translation>ulubione</translation>
     </message>
     <message>
         <source>followed you</source>
-        <translation type="unfinished">followed you</translation>
+        <translation>śledzące ciebie</translation>
     </message>
     <message>
         <source>boosted</source>
-        <translation type="unfinished">boosted</translation>
+        <translation>propagowana</translation>
     </message>
     <message>
         <source>said</source>
-        <translation type="unfinished"></translation>
+        <translation>powiediał</translation>
     </message>
 </context>
 <context>
     <name>Browser</name>
     <message>
         <source>Open in Browser</source>
-        <translation>Open in Browser</translation>
+        <translation>Otwórz w Przegladarce</translation>
     </message>
     <message>
         <source>Web mode</source>
-        <translation>Web mode</translation>
+        <translation>Tryb web</translation>
     </message>
     <message>
         <source>Reading mode</source>
-        <translation>Reading mode</translation>
+        <translation>Tryb czytania</translation>
     </message>
 </context>
 <context>
     <name>Conversation</name>
     <message>
         <source>Conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmowa</translation>
     </message>
     <message>
         <source>Content warning!</source>
-        <translation type="unfinished"></translation>
+        <translation>Treść ostrzeżenia</translation>
     </message>
     <message>
         <source>public</source>
-        <translation type="unfinished"></translation>
+        <translation>publiczny</translation>
     </message>
     <message>
         <source>unlisted</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie katalogowany</translation>
     </message>
     <message>
         <source>followers only</source>
-        <translation type="unfinished"></translation>
+        <translation>tylko śledzący</translation>
     </message>
     <message>
         <source>direct</source>
-        <translation type="unfinished"></translation>
+        <translation>bezposredni</translation>
     </message>
 </context>
 <context>
